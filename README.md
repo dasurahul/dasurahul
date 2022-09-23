@@ -1,1 +1,1 @@
-<img src="https://s4.gifyu.com/images/Dasu-Rahul.gif" alt="Dasu Rahul's GIF" style="aspect-ratio: 16 / 9;" />
+[![Dasu-Rahul-1.gif](https://s4.gifyu.com/images/Dasu-Rahul-1.gif)](https://gifyu.com/image/S3nKL)
