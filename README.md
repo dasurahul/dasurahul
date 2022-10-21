@@ -12,7 +12,7 @@ I’ve always been a great problem solver, an independent introvert, and a techn
 I’m always adding new skills to my repertoire. I’m also eager to meet other software engineers in the area, so feel free to connect!
 
 ## 🛠 Skills
-HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, AWS
+HTML, CSS, Tailwind CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, AWS
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://dasu-rahul.netlify.app)
